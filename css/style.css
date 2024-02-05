@@ -28,6 +28,13 @@
     color: var(--title-color);
     
 }
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+.img-fluid{
+    max-width: 88%;
+}
 
 .header_area .main-menu .navbar-nav .active a{
     background: var(--gradient-color);
